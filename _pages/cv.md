@@ -11,16 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+M.S. in Applied Mathematics, Data Science and Modeling, University of Exeter, 2024
+B.S. in Architecture, Inner Mongolia University of Science and Technology, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Fall 2023: Research Assistant
+University of Exeter
+Duties included: Developing and solving PDE-based models in MATLAB to simulate fish population dynamics, applying numerical methods for optimization, and visualizing simulation results for ecological analysis.
+Supervisor: Associate Professor of Applied Mathematics, Markus  
+
+Fall 2023: Research Assistant
+
+University of Exeter
+Responsibilities:
+Processed and cleaned large datasets for architectural and environmental analysis using MATLAB and R
+Applied statistical models to identify trends and patterns in research data
+Assisted in writing research reports with a focus on data-driven insights
+Supervisor: Professor 
+Summer 2015: Research Assistant (Data Management & Modeling)
+
+Inner Mongolia University of Science and Technology
+Responsibilities:
+Collected and structured research data for predictive modeling and quantitative analysis
+Implemented clustering techniques (e.g., K-Means) to categorize research datasets
+Built interactive data visualizations to support academic publications
+Supervisor: Professor [Actual Name]
+
 
 * Fall 2015: Research Assistant
   * GitHub University

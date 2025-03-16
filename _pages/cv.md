@@ -13,6 +13,7 @@ Education
 ======
 
 M.S. in Applied Mathematics, Data Science and Modeling, University of Exeter, 2024
+
 B.S. in Architecture, Inner Mongolia University of Science and Technology, 2022
 
 Work experience
@@ -22,14 +23,10 @@ University of Exeter
 Duties included: Developing and solving PDE-based models in MATLAB to simulate fish population dynamics, applying numerical methods for optimization, and visualizing simulation results for ecological analysis.
 Supervisor: Associate Professor of Applied Mathematics, Markus  
 
-Fall 2023: Research Assistant
-
 University of Exeter
-Responsibilities:
-Processed and cleaned large datasets for architectural and environmental analysis using MATLAB and R
-Applied statistical models to identify trends and patterns in research data
-Assisted in writing research reports with a focus on data-driven insights
-Supervisor: Professor 
+Duties included: Implemented and experimented with five different Generative Adversarial Network (GAN) models to generate synthetic images from real-world datasets, leveraging DCGAN, WGAN, WGAN-GP, CycleGAN, and StyleGAN. Optimized model architectures and hyperparameters to enhance image quality and stability. Applied Python (TensorFlow, PyTorch) for model development and used Matplotlib & Seaborn for visualization. Conducted comparative analysis of GAN performance, innovatively combining model techniques to improve generation fidelity. Achieved 17% improvement in image quality metrics (FID, IS) by fine-tuning model parameters. Reduced mode collapse by implementing feature regularization techniques, enhancing model robustness and diversity.
+Supervisor: Associate Professor of Applied Mathematics, Saptarshi
+
 Summer 2015: Research Assistant (Data Management & Modeling)
 
 Inner Mongolia University of Science and Technology

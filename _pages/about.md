@@ -30,9 +30,27 @@ My research interest includes neural machine translation and computer vision. I 
 Awarded for academic excellence upon admission to the MSc in Applied Mathematics
 Recognized as an outstanding entrant with strong academic performance; received a tuition fee reduction as part of the university’s merit-based scholarship scheme.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🛠 Tech Stack
+Languages: Python, MATLAB, R
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+Data Handling: Pandas, NumPy, OpenCV, scikit-learn
+
+Deep Learning Frameworks: PyTorch
+
+Modeling & Algorithms:
+
+YOLO (You Only Look Once) – real-time object detection
+
+Convolutional Neural Networks (CNN)
+
+Isolation Forest – anomaly detection
+
+SVM, LSTM, GAN, Markov Chains, K-Means
+
+SQL & Databases:
+
+MySQL (Community Edition) – used for structured data querying and storage
+
+Tools & IDEs: Git, GitHub, PyCharm, Jupyter Notebook
+
+Environment Management: Conda
